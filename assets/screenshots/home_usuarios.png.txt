@@ -1,0 +1,12 @@
+# Home Usuarios Screenshot - Placeholder
+
+Este archivo debe ser reemplazado con la captura de pantalla real.
+
+## Especificaciones:
+- **Nombre:** home_usuarios.png
+- **Dimensiones:** 720x1280px (ratio 9:16)
+- **Formato:** PNG o JPG
+- **Descripción:** Pantalla principal para usuarios
+
+## Uso en el sitio:
+- Galería de screenshots (sección "Explora la Experiencia")
