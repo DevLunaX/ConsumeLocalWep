@@ -1,0 +1,12 @@
+# App en Acción - Placeholder
+
+Este archivo debe ser reemplazado con la imagen promocional real.
+
+## Especificaciones:
+- **Nombre:** app_en_accion.png
+- **Dimensiones:** 600x1000px
+- **Formato:** PNG o JPG
+- **Descripción:** Imagen promocional de la app en uso
+
+## Uso en el sitio:
+- Sección "About" (Nuestra Misión)

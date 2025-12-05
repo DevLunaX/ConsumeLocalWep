@@ -1,0 +1,14 @@
+# Logo Consume Local - Placeholder
+
+Este archivo debe ser reemplazado con el logo real de Consume Local.
+
+## Especificaciones:
+- **Nombre:** logo_consume.png
+- **Dimensiones:** 150x150px
+- **Formato:** PNG con fondo transparente
+- **Descripción:** Logo principal de "Consume Local"
+
+## Uso en el sitio:
+- Navbar (40x40px)
+- Hero section (112x112px)  
+- Footer (40x40px)

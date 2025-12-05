@@ -1,0 +1,12 @@
+# Carrito Screenshot - Placeholder
+
+Este archivo debe ser reemplazado con la captura de pantalla real.
+
+## Especificaciones:
+- **Nombre:** carrito.png
+- **Dimensiones:** 720x1280px (ratio 9:16)
+- **Formato:** PNG o JPG
+- **Descripción:** Carrito de compras
+
+## Uso en el sitio:
+- Galería de screenshots (sección "Explora la Experiencia")

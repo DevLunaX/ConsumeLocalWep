@@ -1,0 +1,12 @@
+# Hero Phone - Placeholder
+
+Este archivo debe ser reemplazado con el mockup del teléfono.
+
+## Especificaciones:
+- **Nombre:** hero_phone.png
+- **Dimensiones:** 400x600px
+- **Formato:** PNG con fondo transparente (recomendado)
+- **Descripción:** Mockup de un teléfono mostrando la aplicación
+
+## Uso en el sitio:
+- Sección Hero principal (lado derecho)
