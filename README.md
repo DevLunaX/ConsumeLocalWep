@@ -13,7 +13,16 @@
   <a href="#capturas-de-pantalla">Capturas</a> •
   <a href="#tecnologías">Tecnologías</a> •
   <a href="#instalación">Instalación</a> •
-  <a href="#uso">Uso</a>
+  <a href="#descargar">Descargar</a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1mvdmCPbumn6GUb_WuQeQTU35xi47BOln?usp=sharing">
+    <img src="https://img.shields.io/badge/📱_Descargar_APK-Google_Drive-F97316?style=for-the-badge&logo=google-drive&logoColor=white" alt="Descargar APK">
+  </a>
+  <a href="https://devlunax.github.io/ConsumeLocalWep/">
+    <img src="https://img.shields.io/badge/🌐_Ver_Demo-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Demo">
+  </a>
 </p>
 
 ---
@@ -22,7 +31,11 @@
 
 **Consume Local** es una plataforma digital que conecta a los amantes de la buena comida con los mejores negocios locales de su comunidad. Nuestra misión es cerrar la brecha digital entre los pequeños negocios gastronómicos y sus clientes, permitiendo que cada negocio, por pequeño que sea, tenga una vitrina digital profesional.
 
-🌐 **[Ver Demo en Vivo](https://devlunax.github.io/ConsumeLocalWep/)**
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1mvdmCPbumn6GUb_WuQeQTU35xi47BOln?usp=sharing">
+    <img src="https://img.shields.io/badge/⬇️_DESCARGAR_APP_AHORA-FF6B35?style=for-the-badge&logoColor=white" alt="Descargar Ahora">
+  </a>
+</p>
 
 ## ✨ Características
 
@@ -64,7 +77,32 @@
 - **Base de Datos:** Firebase Realtime Database
 - **Hosting:** GitHub Pages
 
-## 📦 Instalación
+## 📥 Descargar
+
+### 📱 Aplicación Android (APK)
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1mvdmCPbumn6GUb_WuQeQTU35xi47BOln?usp=sharing">
+    <img src="https://img.shields.io/badge/📲_DESCARGAR_APK-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Descargar APK desde Google Drive">
+  </a>
+</p>
+
+**Instrucciones de instalación:**
+1. 📥 Haz clic en el botón de arriba para ir a Google Drive
+2. 📁 Descarga el archivo APK
+3. ⚙️ En tu dispositivo Android, habilita "Instalar desde fuentes desconocidas"
+4. 📱 Abre el archivo APK descargado e instala
+5. 🎉 ¡Listo! Disfruta de Consume Local
+
+### 🌐 Versión Web
+
+<p align="center">
+  <a href="https://devlunax.github.io/ConsumeLocalWep/">
+    <img src="https://img.shields.io/badge/🌐_ABRIR_WEB_APP-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Web App">
+  </a>
+</p>
+
+## 📦 Instalación (Desarrollo)
 
 ### Prerrequisitos
 - Un navegador web moderno
@@ -90,12 +128,6 @@ npx serve
 ```
 
 Luego visita `http://localhost:8000` en tu navegador.
-
-## 💻 Uso
-
-1. **Visita la página web** para explorar la interfaz de la aplicación
-2. **Descarga la APK** desde la sección de descarga para probar la app móvil
-3. **Explora las funcionalidades** tanto para usuarios como para vendedores
 
 ## 🎨 Características del Diseño
 
@@ -141,6 +173,12 @@ Este proyecto está bajo licencia. Consulta el archivo `LICENSE` para más detal
 **Gerardo Mauricio** - [@DevLunaX](https://github.com/DevLunaX)
 
 ---
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1mvdmCPbumn6GUb_WuQeQTU35xi47BOln?usp=sharing">
+    <img src="https://img.shields.io/badge/🔥_DESCARGAR_CONSUME_LOCAL-F97316?style=for-the-badge" alt="Descargar">
+  </a>
+</p>
 
 <p align="center">
   Hecho con ❤️ para impulsar el comercio local
