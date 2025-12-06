@@ -191,6 +191,24 @@
             transform: translateY(0);
         }
 
+        /* Respect user's motion preferences */
+        @media (prefers-reduced-motion: reduce) {
+            .scroll-reveal,
+            .animate-fadeInUp,
+            .floating-shape,
+            .feature-card,
+            .screenshot-item img,
+            .download-button,
+            * {
+                animation: none !important;
+                transition: none !important;
+            }
+            .scroll-reveal {
+                opacity: 1;
+                transform: none;
+            }
+        }
+
         /* Subtle decorative shapes - reduced opacity */
         @keyframes float {
             0%, 100% { transform: translateY(0); }
