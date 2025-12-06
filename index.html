@@ -29,8 +29,12 @@
             --color-bg: #FFF8F0; /* Fondo crema cálido */
             --color-primary: #E85D04; /* Naranja vibrante */
             --color-primary-dark: #DC2F02;
+            --color-primary-light-10: rgba(232, 93, 4, 0.1);
+            --color-primary-light-20: rgba(232, 93, 4, 0.2);
             --color-secondary: #FAA307; /* Dorado */
+            --color-secondary-light-10: rgba(250, 163, 7, 0.1);
             --color-accent: #FFBA08; /* Amarillo suave */
+            --color-accent-light-10: rgba(255, 186, 8, 0.1);
             --color-text-dark: #0D1B2A; /* Texto principal oscuro */
             --color-text-secondary: #415A77; /* Texto secundario */
             --color-text-light: #778DA9; /* Texto claro */
@@ -88,6 +92,10 @@
             -webkit-backdrop-filter: blur(10px);
             box-shadow: 0 2px 20px rgba(0, 0, 0, 0.06);
             border-bottom: 1px solid rgba(232, 93, 4, 0.1);
+        }
+
+        .navbar-link:hover {
+            color: var(--color-primary);
         }
 
         /* Modern card shadow with warm color */
@@ -477,11 +485,11 @@
                     onerror="this.onerror=null; this.src='https://placehold.co/48x48/E85D04/ffffff?text=CL';" 
                     alt="Logo" 
                     class="w-10 h-10 rounded-full shadow-md">
-                <span class="text-xl font-bold text-dark hidden sm:block">Consume <span class="text-gradient">Local</span></span>
+                <span class="text-xl font-bold hidden sm:block" style="color: var(--color-text-dark);">Consume <span class="text-gradient">Local</span></span>
             </a>
             <div class="flex items-center gap-6">
-                <a href="#features" class="text-secondary hover:text-primary transition-colors hidden md:block font-medium">Funcionalidades</a>
-                <a href="#about" class="text-secondary hover:text-primary transition-colors hidden md:block font-medium">Nosotros</a>
+                <a href="#features" class="transition-colors hidden md:block font-medium navbar-link" style="color: var(--color-text-secondary);">Funcionalidades</a>
+                <a href="#about" class="transition-colors hidden md:block font-medium navbar-link" style="color: var(--color-text-secondary);">Nosotros</a>
                 <a href="https://drive.google.com/drive/folders/1mvdmCPbumn6GUb_WuQeQTU35xi47BOln?usp=sharing" target="_blank" class="download-button px-5 py-2.5 text-sm font-bold flex items-center gap-2 shadow-md">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
