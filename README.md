@@ -1,8 +1,5 @@
 # 🍔 Consume Local
 
-<p align="center">
-  <img src="./assets/logo_consume.png" alt="Consume Local Logo" width="150" height="150">
-</p>
 
 <p align="center">
   <strong>Del barrio a tu mesa, en un clic.</strong>
